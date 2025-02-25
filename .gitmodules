@@ -1,0 +1,3 @@
+[submodule "services/chronos-backend"]
+	path = services/chronos-backend
+	url = git@github.com:nodelike/chronos-backend.git
