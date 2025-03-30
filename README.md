@@ -485,6 +485,163 @@ class SecurityMeasures:
    - Allows further exploration of the memory context
 ```
 
+## Core Usage of Chronos 2.0
+
+    Personal Memory Augmentation
+
+        Recall forgotten details (names, dates, experiences).
+
+        Reconstruct fragmented memories using cross-modal data.
+
+    Contextual Productivity
+
+        Surface relevant information during tasks/meetings.
+
+        Auto-retrieve documents/files related to current work.
+
+    Relationship Management
+
+        Track interactions with people over time.
+
+        Remember preferences/patterns of friends/colleagues.
+
+    Behavior Pattern Analysis
+
+        Identify habits (good/bad) via digital activity.
+
+        Highlight time-management inefficiencies.
+
+    Experience Exploration
+
+        Navigate life events through unified timelines.
+
+        Discover hidden connections between disparate activities.
+
+Proactive Notification Scenarios
+I. Conversation-Triggered
+
+    "What was the name of that café…?"
+
+        Notification: "You visited Blue Bottle Coffee with Priya on March 12, 2023 (photos/map)."
+
+    Debating historical facts
+
+        Notification: "The article you read on WWII in 2022 supports your point (link)."
+
+    Planning a trip
+
+        Notification: "Your 2019 Tokyo itinerary had 4.5★ rated hotels (show list)."
+
+II. Location-Based
+
+    Entering a grocery store
+
+        Notification: "Your last purchase list had milk, eggs, and spinach (repeat?)."
+
+    Driving past a restaurant
+
+        Notification: "You disliked the service here in 2022 – try Noma instead (3 mins away)."
+
+    Arriving at the gym
+
+        Notification: "Your January workout playlist (Linkin Park, Eminem) – auto-play?"
+
+III. Temporal Patterns
+
+    Monday 9 AM work start
+
+        Notification: "Your most productive Mondays begin with 25-min focused sprints."
+
+    Annual anniversary date
+
+        Notification: "2022: Paris trip | 2023: Rooftop dinner (reserve table?)."
+
+    Late-night YouTube browsing
+
+        Notification: "You typically regret staying up past 1 AM – sleep stats ↗️."
+
+IV. Media & Content
+
+    Watching a sci-fi movie
+
+    Notification: "Your notes from The Three-Body Problem book (2023 highlights)."
+
+    Listening to a podcast
+
+    Notification: "You disagreed with this host’s climate claims in 2022 (your notes)."
+
+    Reading news about AI
+
+    Notification: "Your saved paper on LLMs (Feb 2024) is relevant here."
+
+V. Social Interactions
+
+    Meeting an old friend
+
+    Notification: "Last met Sarah in 2021 – she now works at Google (LinkedIn)."
+
+    Group chat about hiking
+
+    Notification: "Your 2023 Yosemite hike photos (share with group?)."
+
+    Call from a doctor
+
+    Notification: "Last cholesterol test results (July 2023) – open now?"
+
+VI. Error Correction
+
+    Misquoting a fact
+
+    Notification: "Actually, GDP grew by 2.4% in Q3 (source: your saved report)."
+
+    Misremembering deadlines
+
+    Notification: "Project X was due Nov 15, not Dec 1 (2022 email thread)."
+
+VII. Predictive Assistance
+
+    Approaching a meeting
+
+    Notification: "Last week’s unresolved action items for this team (preview)."
+
+    Low phone battery
+
+    Notification: "You usually charge at Starbucks – nearest location ↗️."
+
+    Rainy weather detected
+
+    Notification: "Canceled 3 outdoor plans last monsoon – backup ideas?"
+
+Specialized Scenarios
+
+    Creative Work:
+
+        "Your 2023 song draft matches this chord progression – revisit?"
+
+    Conflict Resolution:
+
+        "You and Alex disagreed about this feature in 2022 – compromise notes ↗️."
+
+    Health:
+
+        "Your sleep score drops 30% after 2+ coffee days – today’s intake: 3 cups."
+
+    Finance:
+
+        "You overspent on Uber last December – current month vs. 2023 average ↗️."
+
+Key Differentiators
+
+    Anticipatory – Surfaces info before you realize you need it.
+
+    Self-Correcting – Flags inconsistencies in real-time.
+
+    Multi-Modal – Connects digital/physical/verbal contexts.
+
+    Time-Aware – Understands patterns across hours/years.
+
+This system effectively becomes a context-aware extension of your brain, bridging gaps between your digital footprint and real-world needs.
+
 ## Future Extensions
 
 1. **Multi-modal Context Analysis**
